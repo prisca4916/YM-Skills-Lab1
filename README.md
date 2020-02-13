@@ -4,26 +4,26 @@ Welcome to the first skills lab of the year! In this lab we are going to Git, Gi
 ## How to write on your .md file - basic writing and formatting
 
 ### In this README.md:
-* [Introduction](###Introduction)
-* [Headings](###Headings)
-* [Styling text](###Styling-Text)
-* [Quoting text](###Quoting-text)
-* [Quoting code](###Quoting-code)
-* [Links](###Links)
-* [Lists](###Lists)
-* [Task Lists](###Task-Lists)
-* [Mentioning people](###Mentioning-people)
-* [Paragraphs](###Paragraphs)
-* [Ignoring Markdown formatting](###Ignoring-Markdown-formatting)
-* [Creating a table](###Creating-a-table)
-* [Images](###Images)
-* [References](###References)
+* [Introduction](#Introduction)
+* [Headings](#Headings)
+* [Styling text](#Styling-Text)
+* [Quoting text](#Quoting-text)
+* [Quoting code](#Quoting-code)
+* [Links](#Links)
+* [Lists](#Lists)
+* [Task Lists](#Task-Lists)
+* [Mentioning people](#Mentioning-people)
+* [Paragraphs](#Paragraphs)
+* [Ignoring Markdown formatting](#Ignoring-Markdown-formatting)
+* [Creating a table](#Creating-a-table)
+* [Images](#Images)
+* [References](#References)
 
-### [Introduction](###Introduction)
+### [Introduction](#Introduction)
 Markdown is a markup language designed to be simple enough to let anyone write structured documents without the need of a visual editor. Markdown is also lightweight and an easy-to-use syntax for styling all forms of writing on the GitHub platform. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like `#` or `*`. 
 
 
- ### [Headings](###Headings)
+ ### [Headings](#Headings)
 To create a heading, add one to six `#` symbols before your heading text. The number of `#` you use will determine the size of the heading.
 
 ```
@@ -37,7 +37,7 @@ To create a heading, add one to six `#` symbols before your heading text. The nu
 ###### The smallest heading
 
 
-### [Styling text](###Styling-Text)
+### [Styling text](#Styling-Text)
 
 You can indicate emphasis with bold, italic, or strikethrough text.
 
@@ -50,14 +50,14 @@ You can indicate emphasis with bold, italic, or strikethrough text.
 | All bold and italic | `*** ***` |  `***All this text is important***` | ***All this text is important***  |
 
 
-### [Quoting text](###Quoting-text)
+### [Quoting text](#Quoting-text)
 You can quote text with a >.
 
 In the words of Cameron Green:
 > Stick with me, I'll make you famous
 
 
-### [Quoting code](###Quoting-code)
+### [Quoting code](#Quoting-code)
 You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.
 
 ```
@@ -84,7 +84,7 @@ git commit
 ```
 
 
-### [Links](###Links)
+### [Links](#Links)
 You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ).
 
 `This site was built using [GitHub Help Pages](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).`
@@ -92,7 +92,7 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 This site was built using [GitHub Help Pages](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).
 
 
-### [Lists](###Lists)
+### [Lists](#Lists)
 You can make an unordered list by preceding one or more lines of text with `-` or `*`.
 
 ```
@@ -127,7 +127,7 @@ Nested Lists - You can create a nested list by indenting one or more list items 
         - Second nested list item
 
 
-### [Task Lists](###Task-Lists)
+### [Task Lists](#Task-Lists)
 To create a task list, preface list items with a regular space character followed by `[ ]`. To mark a task as complete, use `[x]`.
 
 ```
@@ -140,7 +140,7 @@ To create a task list, preface list items with a regular space character followe
 - [ ] Open a pull request
 
 
-### [Mentioning people](###Mentioning-people)
+### [Mentioning people](#Mentioning-people)
 You can mention a person or team on GitHub by typing `@` plus their username. This will trigger a notification and bring their attention to the conversation. People will also receive a notification if you edit a comment to mention their username.
 
 `@vrautenbach how does this look?`
@@ -148,18 +148,18 @@ You can mention a person or team on GitHub by typing `@` plus their username. Th
 @vrautenbach how does this look?
 
 
-### [Paragraphs](###Paragraphs)
+### [Paragraphs](#Paragraphs)
 You can create a new paragraph by leaving a blank line between lines of text.
 
 
-### [Ignoring Markdown formatting](###Ignoring-Markdown-formatting)
+### [Ignoring Markdown formatting](#Ignoring-Markdown-formatting)
 You can tell GitHub to ignore (or escape) Markdown formatting by using `\` before the Markdown character.
 
 `Let's rename \*our-new-project\* to \*our-old-project\*.`
 
 Let's rename \*our-new-project\* to \*our-old-project\*
 
-### [Creating a table](###Creating-a-table)
+### [Creating a table](#Creating-a-table)
 You can create tables with pipes `|` and hyphens `-`. Hyphens are used to create each column's header, while pipes separate each column. You must include a blank line before your table in order for it to correctly render.
 
 ```
@@ -187,13 +187,13 @@ Cells can vary in width and do not need to be perfectly aligned within columns. 
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 
-### [Images](###Images)
+### [Images](#Images)
 The syntax for images is like the syntax for links, but with a `!` before:
 
 `![image name](url to image)`
 
 ![code](https://www.economist.com/img/b/1000/563/85/sites/default/files/images/2015/09/blogs/economist-explains/code2.png)
 
-### [References](###References)
+### [References](#References)
 * [Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 * [Organizing information with tables](https://help.github.com/en/github/writing-on-github/organizing-information-with-tables)
