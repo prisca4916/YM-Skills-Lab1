@@ -1,6 +1,8 @@
 # Youthmappers Skill Lab 1
 Welcome to the first skills lab of the year! In this lab we are going to Git, GitHub and GitKraken. All the inforamtion on what Git, GitHub and GitKraken are, please see the slides that are also saved in this repo. 
 
+For this exercise, we will be using a Glo Board, to copy my Glo Board, please use this link: https://app.gitkraken.com/glo/board/XkZPMA6McgARAvt9
+
 ## How to write on your .md file - basic writing and formatting
 
 ### In this README.md:
